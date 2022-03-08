@@ -1,0 +1,1 @@
+# moxaiiot-configure-automatic-deployment-azure-iotub
